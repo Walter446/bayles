@@ -1,0 +1,195 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921141915@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC621C0379315C3E3E6D7F1915875DBE',
+    participant: undefined
+  },
+  messageTimestamp: 1764291012,
+  pushName: 'Walter',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '51921141915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c2d62e11-962c-4683-8001-513d4a9d9289',
+  keyword: 'key_d3827d59-ac2b-4ac1-bc8e-bf21e0efb3ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'dba4d8e0d68dee3c1aca2a482407232e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921141915@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC83F142B99BFE1DC9B114542B347B94',
+    participant: undefined
+  },
+  messageTimestamp: 1764291023,
+  pushName: 'Walter',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dime mi nombre',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Dime mi nombre',
+  from: '51921141915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c2d62e11-962c-4683-8001-513d4a9d9289',
+  keyword: 'key_d3827d59-ac2b-4ac1-bc8e-bf21e0efb3ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'dba4d8e0d68dee3c1aca2a482407232e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921141915@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC782588E43B301994E767C61E25FB2D',
+    participant: undefined
+  },
+  messageTimestamp: 1764291035,
+  pushName: 'Walter',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dime mi nombre',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Dime mi nombre',
+  from: '51921141915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c2d62e11-962c-4683-8001-513d4a9d9289',
+  keyword: 'key_d3827d59-ac2b-4ac1-bc8e-bf21e0efb3ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'dba4d8e0d68dee3c1aca2a482407232e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921141915@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC94A890613C75C3295CAE6518C172AF',
+    participant: undefined
+  },
+  messageTimestamp: 1764291043,
+  pushName: 'Walter',
+  broadcast: false,
+  message: Message {
+    conversation: 'Como me llamo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Como me llamo',
+  from: '51921141915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c2d62e11-962c-4683-8001-513d4a9d9289',
+  keyword: 'key_d3827d59-ac2b-4ac1-bc8e-bf21e0efb3ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'dba4d8e0d68dee3c1aca2a482407232e'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51921141915@s.whatsapp.net',
+    fromMe: false,
+    id: 'AC64D9104A814F245487D5D89B7B2B3C',
+    participant: undefined
+  },
+  messageTimestamp: 1764291113,
+  pushName: 'Walter',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '51921141915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c2d62e11-962c-4683-8001-513d4a9d9289',
+  keyword: 'key_d3827d59-ac2b-4ac1-bc8e-bf21e0efb3ed',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'dba4d8e0d68dee3c1aca2a482407232e'
+}

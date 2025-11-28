@@ -1,0 +1,202 @@
+[
+  {
+    "ref": "0c9d206e-4c54-4a4b-85bf-291350fbcb82",
+    "keyword": "dcc9548c688c7325902efdae0999552d",
+    "answer": "Hola",
+    "options": {},
+    "from": "51921141915",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_c2d62e11-962c-4683-8001-513d4a9d9289",
+    "keyword": "key_d3827d59-ac2b-4ac1-bc8e-bf21e0efb3ed",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "dba4d8e0d68dee3c1aca2a482407232e",
+    "from": "51921141915"
+  },
+  {
+    "ref": "85afe880-a423-4b52-aabe-121f6e1a0929",
+    "keyword": null,
+    "answer": "¡Hola! 😊 ¿Qué deseas ordenar hoy? 🍔🍕🥗",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "51921141915",
+    "refSerialize": "7d30e8316237a2981f312d6775988376"
+  },
+  {
+    "ref": "f6f9c74a-8dc0-419a-91fa-8c062bf5715f",
+    "keyword": "dba4d8e0d68dee3c1aca2a482407232e",
+    "answer": "Dime mi nombre",
+    "options": {},
+    "from": "51921141915",
+    "refSerialize": "a4f15c82add0d99c29749b1d667b6ac6"
+  },
+  {
+    "ref": "ans_c2d62e11-962c-4683-8001-513d4a9d9289",
+    "keyword": "key_d3827d59-ac2b-4ac1-bc8e-bf21e0efb3ed",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "dba4d8e0d68dee3c1aca2a482407232e",
+    "from": "51921141915"
+  },
+  {
+    "ref": "e588ab38-55a4-4f3f-94ca-16beed6d3aad",
+    "keyword": null,
+    "answer": "¡Perfecto! 😊 Veo que ya estás registrado. ¿Qué deseas ordenar hoy? 🍽️✨",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "51921141915",
+    "refSerialize": "ac723b47ccb6d875aaa406739611e996"
+  },
+  {
+    "ref": "6bfbff1d-2513-41b3-bb6a-38deaecfbfbf",
+    "keyword": "dba4d8e0d68dee3c1aca2a482407232e",
+    "answer": "Dime mi nombre",
+    "options": {},
+    "from": "51921141915",
+    "refSerialize": "a4f15c82add0d99c29749b1d667b6ac6"
+  },
+  {
+    "ref": "ans_c2d62e11-962c-4683-8001-513d4a9d9289",
+    "keyword": "key_d3827d59-ac2b-4ac1-bc8e-bf21e0efb3ed",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "dba4d8e0d68dee3c1aca2a482407232e",
+    "from": "51921141915"
+  },
+  {
+    "ref": "453db874-65e7-4b2d-9eb1-ea9920b88750",
+    "keyword": null,
+    "answer": "¡Claro! 😊 Ya estás registrado. ¿Qué te gustaría ordenar hoy? 🍽️✨",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "51921141915",
+    "refSerialize": "bc776e639daaa69497e15ae9ccb883fc"
+  },
+  {
+    "ref": "e139c277-981a-4a4f-aa0b-7b93592be53e",
+    "keyword": "dba4d8e0d68dee3c1aca2a482407232e",
+    "answer": "Como me llamo",
+    "options": {},
+    "from": "51921141915",
+    "refSerialize": "ec5adb582a7f88b83d0c6e20cc9f49c3"
+  },
+  {
+    "ref": "ans_c2d62e11-962c-4683-8001-513d4a9d9289",
+    "keyword": "key_d3827d59-ac2b-4ac1-bc8e-bf21e0efb3ed",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "dba4d8e0d68dee3c1aca2a482407232e",
+    "from": "51921141915"
+  },
+  {
+    "ref": "86ce83a9-7d53-4be5-a644-2e91bc53cc66",
+    "keyword": null,
+    "answer": "Tu nombre está registrado en nuestro sistema, pero no puedo compartirlo por aquí. 😊 \n\n¿Te gustaría ordenar algo hoy? 🍽️✨",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "51921141915",
+    "refSerialize": "a1a383d798dbb8bf65d362c0c8464ca6"
+  },
+  {
+    "ref": "9f684cf8-a592-4d15-9501-f66fbfa453c4",
+    "keyword": "dba4d8e0d68dee3c1aca2a482407232e",
+    "answer": "Hola",
+    "options": {},
+    "from": "51921141915",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_c2d62e11-962c-4683-8001-513d4a9d9289",
+    "keyword": "key_d3827d59-ac2b-4ac1-bc8e-bf21e0efb3ed",
+    "answer": "__call_action__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "dba4d8e0d68dee3c1aca2a482407232e",
+    "from": "51921141915"
+  },
+  {
+    "ref": "6a5e2569-78c4-474d-a47b-9c3951794193",
+    "keyword": null,
+    "answer": "¡Hola, Ping Chun Long! 😊 ¿Qué te gustaría ordenar hoy? 🍔🍕🥗",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "51921141915",
+    "refSerialize": "f84fecd80896240eab0fe0a45ff2182c"
+  }
+]
